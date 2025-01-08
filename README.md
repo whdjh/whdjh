@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://velog.io/@wngns9807/posts">
-    <p>velog이미지추가하기</p>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog Badge" />
   </a>
   <a href="https://www.notion.so/aee5241f61b941fc906241ae19398c11">
     <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=notion&logoColor=white" />
