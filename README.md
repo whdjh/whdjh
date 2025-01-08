@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" /><br>
 </div>
 
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdjh&show_icons=true&theme=radical)
-</div>
 
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whdjh&layout=compact)
-</div>
