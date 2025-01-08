@@ -11,14 +11,14 @@
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
   <img src="https://img.shields.io/badge/Module CSS-000000?style=flat-square&logo=css3&logoColor=white" />
   <!--<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />-->
-  <br>🌟
+  <br>
 </div>
 
 <h3 align="center">🔧 Tools</h3><div align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <br>🛠️
+  <br>
 </div>
 
 <h3 align="center">📚 Dev Blog & Resume</h3><div align="center">  
@@ -27,17 +27,17 @@
   <a href="https://www.notion.so/aee5241f61b941fc906241ae19398c11">
     <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=notion&logoColor=white" />  
   </a>
-  <br>📝
+  <br>
 </div>
 <h3 align="center">📬 Contact</h3><div align="center">  
   <a href="mailto:wngns9807@gmail.com">    
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />  
   </a>
-  <br>📧
+  <br>
 </div>
 <h3 align="center">📊 Stats & Languages</h3><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whdjh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdjh&layout=compact" alt="Top Languages" />
-  <br>🎨
+  <br>
 </div>
