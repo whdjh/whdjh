@@ -4,7 +4,7 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-f4702e)](https://whdjh.github.io/)
 
 ##### 프로젝트 인사이트
-- [기획부터 출시까지의 탐슬 도감 여정]([https://klmhyeonwooo.tistory.com/183](https://whdjh.github.io/dev/2025-10-12-tamsul-dictionary-journey.html))<br>
+- [기획부터 출시까지의 탐슬 도감 여정](https://whdjh.github.io/dev/2025-10-12-tamsul-dictionary-journey.html))<br>
 - [YepBuddy - (1) 운동 좀 하는 개발자, 나를 위한 헬스 페이지를 만들어보려 한다!](https://whdjh.github.io/dev/2025-08-16-yepbuddy-hello.html)<br>
 - [YepBuddy - (2) 이게 바로 개발자식 UI다! shadcn으로 디자인하기](https://whdjh.github.io/dev/2025-09-23-yepbuddy-shadcn-ui.html)<br>
 - [YepBuddy - (3) 스키마가 필요하다! Drizzle + Supabase로 구조 잡기](https://whdjh.github.io/dev/2025-10-01-yepbuddy-drizzle-supabase.html)<br>
