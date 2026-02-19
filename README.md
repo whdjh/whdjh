@@ -1,6 +1,7 @@
 #### AI를 통해 효율적으로 생산성을 올리는데 관심이 많아요.
 
 [![Linkdin Badge](https://www.linkedin.com/in/%EC%A3%BC%ED%9B%88-%EC%9D%B4-849888310/)
+
 [![Blog Badge](https://img.shields.io/badge/Blog-f4702e)](https://whdjh.github.io/)
 
 ##### 프로젝트 인사이트
