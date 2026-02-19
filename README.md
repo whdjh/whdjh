@@ -14,7 +14,7 @@
 - [YepBuddy - (7) 구글에 안 뜬다고? 그냥 못한 것뿐이다](https://whdjh.github.io/dev/2025-10-11-yepbuddy-google-seo.html)<br>
 
 ##### PoC 시리즈
-- [프레임워크 전환 지옥에서 살아남기: Vue→React 점진적 마이그레이션 삽질기 (PoC 1편)]([https://slashpage.com/timmy/1q3vdn2pxr5x42xy49pr](https://whdjh.github.io/pages/2025-11-28-vue-react-migration-poc1/))<br>
+- [프레임워크 전환 지옥에서 살아남기: Vue→React 점진적 마이그레이션 삽질기 (PoC 1편)](https://whdjh.github.io/pages/2025-11-28-vue-react-migration-poc1/))<br>
 - [프론트엔드에서 라우팅 제어하기: Facade 패턴으로 Nginx 의존성 벗어나기 (PoC 2편)](https://whdjh.github.io/pages/2025-12-01-vue-react-migration-poc2/)<br>
 - [실제 검증: 라우팅 검증, 데이터 공유 그리고 Input/Scroll 동작 (PoC 3편)](https://whdjh.github.io/pages/2025-12-03-vue-react-migration-poc3/)<br>
 - [Legacy 앱의 에러를 New 앱에서 처리할 수 있을까? (PoC 4편)](https://whdjh.github.io/pages/2025-12-04-vue-react-migration-poc4/)<br>
