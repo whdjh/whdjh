@@ -4,12 +4,6 @@ Frontend Developer
 
 [Threads](https://www.threads.com/@2weekhun) · [Email](mailto:wngns9807@gmail.com)
 
-## Threads
-
-프로젝트에서 고민했던 것과 개발하면서 배운 내용을 기록해요.
-
-[Threads →](https://www.threads.com/@2weekhun)
-
 ## Projects
 
 ### YepBuddy
