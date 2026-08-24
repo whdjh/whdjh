@@ -41,3 +41,11 @@
 ![탐슬도감 아키텍처](./side-projects/assets/acnh-architecture.png)
 
 [포트폴리오 →](https://github.com/whdjh/acnh)
+
+## Hermes
+
+Telegram 입력부터 카드뉴스 생성, 사용자 승인, Threads 게시까지 연결한 안드로이드 기반 개인 AI Agent 자동화 시스템
+
+![헤르메스 아키텍처](./side-projects/assets/hermes-architecture.png)
+
+[포트폴리오 →](https://github.com/whdjh/yepbuddy-hermes)
