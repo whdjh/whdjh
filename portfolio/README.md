@@ -49,3 +49,13 @@ Telegram 입력부터 카드뉴스 생성, 사용자 승인, Threads 게시까�
 ![헤르메스 아키텍처](./side-projects/assets/hermes-architecture.png)
 
 [포트폴리오 →](https://github.com/whdjh/yepbuddy-hermes)
+
+# Open Source
+
+## Storybook Vue 3 args/globals 초기화 버그 수정
+
+빈 객체를 적용해도 이전 `args`와 `globals`가 남던 Vue 3 렌더러의 상태 동기화 버그 수정
+
+![스토리 이동 후 args와 globals 초기화 동작 비교](./open-source/storybook-state-reset/assets/state-reset-before-after.png)
+
+[포트폴리오 →](./open-source/storybook-state-reset/)
