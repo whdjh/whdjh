@@ -52,6 +52,14 @@ Telegram 입력부터 카드뉴스 생성, 사용자 승인, Threads 게시까�
 
 # Open Source
 
+## Storybook 워크스페이스 패키지명 충돌 사전 감지
+
+워크스페이스 패키지명이 `storybook`일 때 발생하는 심볼릭 링크 충돌을 CLI에서 사전에 감지하도록 개선
+
+![Storybook 패키지명 충돌 구조 비교](./open-source/storybook-symlink/assets/storybook-package-name-conflict-flow.png)
+
+[포트폴리오 →](./open-source/storybook-symlink/)
+
 ## Storybook Vue 3 args/globals 초기화 버그 수정
 
 빈 객체를 적용해도 이전 `args`와 `globals`가 남던 Vue 3 렌더러의 상태 동기화 버그 수정
